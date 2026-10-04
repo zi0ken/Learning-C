@@ -21,5 +21,5 @@ int main(){
     printf("My name starts with a %c\n", me);
     printf("The value of pi is: %f\n", pi);
     printf("The value of e is: %f\n", e);
-    printf("%d", studiesInUni);
+    printf("%d\n", studiesInUni);
 }
